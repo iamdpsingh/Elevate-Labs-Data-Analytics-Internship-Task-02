@@ -59,5 +59,5 @@ To explore and present meaningful business insights from sales data using compel
 ---
 
 ## 📂 Output Folder:
-All charts are saved in the directory: /superstore_visuals
+All charts are saved in the directory: superstore_visuals
 

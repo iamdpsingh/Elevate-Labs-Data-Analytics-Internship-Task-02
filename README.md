@@ -1,7 +1,7 @@
 # Elevate-Labs-Data-Analytics-Internship-Task-02
 Task 2 Data Visualization and Storytelling
 
-# 📊 Superstore Sales Data Visualization and Storytelling (Python Project)
+# 📊 Superstore Sales Data Visualization and Storytelling
 
 ## 🧠 Objective:
 To explore and present meaningful business insights from sales data using compelling visualizations, focusing on **clarity**, **context**, and **storytelling** through Python libraries like **Seaborn** and **Matplotlib**.
@@ -59,5 +59,5 @@ To explore and present meaningful business insights from sales data using compel
 ---
 
 ## 📂 Output Folder:
-All charts are saved in the directory: superstore_visuals
+All charts are saved in the directory: /superstore_visuals
 

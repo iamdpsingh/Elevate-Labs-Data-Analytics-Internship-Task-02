@@ -15,7 +15,6 @@ To explore and present meaningful business insights from sales data using compel
   - `pandas` – Data manipulation
   - `seaborn` – Statistical data visualization
   - `matplotlib` – Plotting & visualization
-  - `os` – File system management
 
 > ✅ This project replaces **Power BI / Tableau** with a fully open-source, code-driven solution using Python.
 

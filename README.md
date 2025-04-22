@@ -10,7 +10,7 @@ To explore and present meaningful business insights from sales data using compel
 
 ## 🛠 Tools Used:
 
-- **Language**: Python 3.x
+- **Language**: Python 3
 - **Libraries**:
   - `pandas` – Data manipulation
   - `seaborn` – Statistical data visualization
